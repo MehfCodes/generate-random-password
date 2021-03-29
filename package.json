@@ -1,7 +1,7 @@
 {
-  "name": "generate-random-password",
+  "name": "generate-unique-password",
   "version": "1.0.0",
-  "description": "generate-random-password is a library for generating random and unique password.",
+  "description": "generate-unique-password is a library for generating random and unique password.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MehfCodes/generate-random-password.git"
+    "url": "git+https://github.com/MehfCodes/generate-unique-password.git"
   },
   "keywords": [
     "generate",
@@ -17,7 +17,10 @@
     "password",
     "random",
     "random-password",
-    "generate-random-password"
+    "generate-random-password",
+    "generate-unique-password",
+    "unique",
+    "unique-password"
   ],
   "jest": {
     "testEnvironment": "node"
@@ -25,9 +28,9 @@
   "author": "MehfCodes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MehfCodes/generate-random-password/issues"
+    "url": "https://github.com/MehfCodes/generate-unique-password/issues"
   },
-  "homepage": "https://github.com/MehfCodes/generate-random-password#readme",
+  "homepage": "https://github.com/MehfCodes/generate-unique-password#readme",
   "dependencies": {
     "jest": "^26.6.3"
   },
