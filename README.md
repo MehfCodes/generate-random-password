@@ -1,11 +1,11 @@
 # Generate Password
 
-> gen-pass is a library for generating random and unique password.
+> generate-random-password is a library for generating random and unique password.
 
 ## Install
 
 ```bash
-$ npm install gen-pass
+$ npm install generate-random-password
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ $ npm install gen-pass
 Generate one password with the given options. Returns a string.
 
 ```javascript
-import generatePassword from 'gen-pass';
+import generatePassword from 'generate-random-password';
 
 let password = generatePassword({
   characterAmount: 12,
