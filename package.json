@@ -1,7 +1,7 @@
 {
-  "name": "random-password-generation",
+  "name": "generation-passwordjs",
   "version": "1.0.0",
-  "description": "random-password-generation is a library for generating random password.",
+  "description": "generation-passwordjs is a library for generating random password.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MehfCodes/random-password-generation.git"
+    "url": "git+https://github.com/MehfCodes/generation-passwordjs.git"
   },
   "keywords": [
     "generate",
@@ -18,7 +18,7 @@
     "random",
     "random-password",
     "generate-random-password",
-    "random-password-generation",
+    "generation-passwordjs",
     "unique",
     "unique-password"
   ],
@@ -28,9 +28,9 @@
   "author": "MehfCodes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MehfCodes/random-password-generation/issues"
+    "url": "https://github.com/MehfCodes/generation-passwordjs/issues"
   },
-  "homepage": "https://github.com/MehfCodes/random-password-generation#readme",
+  "homepage": "https://github.com/MehfCodes/generation-passwordjs#readme",
   "dependencies": {
     "jest": "^26.6.3"
   },

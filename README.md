@@ -1,11 +1,11 @@
 # What is it ?
 
-> random-password-generation is a library for generating random password.
+> generation-passwordjs is a library for generating random password.
 
 ## Install
 
 ```bash
-$ npm install random-password-generation
+$ npm install generation-passwordjs
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ $ npm install random-password-generation
 Generate one password with the given options. Returns a string.
 
 ```javascript
-import generatePassword from 'random-password-generation';
+import generatePassword from 'generation-passwordjs';
 
 let password = generatePassword({
   characterAmount: 12,
