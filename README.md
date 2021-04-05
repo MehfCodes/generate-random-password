@@ -1,11 +1,11 @@
 # What is it ?
 
-> generate-unique-password is a library for generating random and unique password.
+> random-password-generation is a library for generating random and unique password.
 
 ## Install
 
 ```bash
-$ npm install generate-unique-password
+$ npm install random-password-generation
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ $ npm install generate-unique-password
 Generate one password with the given options. Returns a string.
 
 ```javascript
-import generatePassword from 'generate-unique-password';
+import generatePassword from 'random-password-generation';
 
 let password = generatePassword({
   characterAmount: 12,
