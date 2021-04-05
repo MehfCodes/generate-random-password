@@ -1,6 +1,6 @@
 # What is it ?
 
-> random-password-generation is a library for generating random and unique password.
+> random-password-generation is a library for generating random password.
 
 ## Install
 
