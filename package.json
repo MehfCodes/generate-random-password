@@ -1,7 +1,7 @@
 {
   "name": "random-password-generation",
   "version": "1.0.0",
-  "description": "random-password-generation is a library for generating random and unique password.",
+  "description": "random-password-generation is a library for generating random password.",
   "main": "index.js",
   "type": "module",
   "scripts": {
